@@ -1,4 +1,4 @@
-# odoo_change_db_isolation_mode
+# odoo change db isolation mode
 Custom odoo module to enable isolation level of postgresql db. 
 
 This will enable you to set the custom isolation level in odoo configurations. 
